@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @manivannan. I am an software engineer primarily working in Front End Tools. I am interested in learning about React, Redux, GraphQl
+- 👋 Hi, I’m @manivannan. I am an Full Stack engineer primarily working in React, Redux, Javascript, NextJS, Nodejs
 - 👀 I’m interested in Design and Architecture of Web Applications
-- 🌱 I’m currently learning GraphQL and Functional Programming Paradigm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me @manivannat@gmail.com
 
